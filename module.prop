@@ -1,0 +1,6 @@
+id=xiaomi-keyboard-nabu-enabler
+name=Enable the keyboard on the Xiaomi Pad 5
+version=v1
+versionCode=1
+author=Till0196
+description=Magisk module to enable keyboard on Xiaomi Pad 5 with ROM other than MIUI
